@@ -22,7 +22,7 @@ barrio_filtrado.plot(
     legend_kwds={'fmt': "{:.0f}"}
 )
 
-plt.title("Predios de Salitre (Suba) por Rango de Área en m²", fontsize=14, fontweight='bold')
+plt.title("Predios de Suba Las flores por Área en m²", fontsize=14, fontweight='bold')
 plt.axis('off') 
 
 plt.tight_layout()
