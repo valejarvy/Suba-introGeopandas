@@ -1,2 +1,2 @@
 # Proyecto de geopandas
-Este es un proyecto para explicar geopandas
+Proyecto para explicar geopandas
